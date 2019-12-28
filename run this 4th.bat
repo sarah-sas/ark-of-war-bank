@@ -1,2 +1,2 @@
-npm i quick.db
+npm i quickdb
 pause
