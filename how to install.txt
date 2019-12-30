@@ -14,9 +14,10 @@ things you will need to run in the command prompt that you opened:
 
 
 
+you may need to get this https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools
 
-
-
+then you should be able to start it (also in a command window) assuming that you already changed the bot loging details
+to your own and setup a bot on https://discordapp.com/developers/applications
 
 
 
