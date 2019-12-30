@@ -1,2 +1,0 @@
-npm i quickdb
-pause
