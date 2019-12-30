@@ -1,0 +1,26 @@
+things you will need: node.js found here "nodejs.org"
+
+then open a cmd in the ark of war folder, an easy way to do that is to open the folder hold shift then right click in the
+folder and click open command window here ( make sure u dont have anything selected or the option that u need wont pop up )
+
+things you will need to run in the command prompt that you opened:
+  
+	npm init
+	npm install discord.js
+	npm install quick.db		:quick.db may output errors that cause it to not install you will need to run the
+	npm install parse-ms		 command below if it does
+					
+					: npm -g --add-python-to-path install windows-build-tools node-gyp
+
+
+
+
+
+
+
+
+
+
+things to note: my system is running as the administrator so everything run by default as the administrator
+	      : i am running windows 
+	      : botconfig.json holds what the prefix will be by default it is a period
