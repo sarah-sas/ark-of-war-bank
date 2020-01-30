@@ -57,4 +57,4 @@ bot.on("ready", async() => {
     })
 })
 
-client.login(process.env.NjcyMzI2MDQwMTM5MzMzNjQz.XjKDPg.cTC9Ni9Eqjp_dhVZOLDvCPPLQ9E;
+client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secrets
