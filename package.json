@@ -2,19 +2,14 @@
   "name": "bot",
   "version": "0.0.1",
   "description": "a discord bot for the game ark of war",
-  "main": "index.js","scripts": {
-
-    "start": "node bot.js"
-
-  },
-  "dependencies": {
+  "main": "index.js", "dependencies": {
     "discord.js": "^11.5.1",
     "parse-ms": "^2.1.0",
     "quick.db": "^7.0.0-b22"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "start": "node ."   "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
