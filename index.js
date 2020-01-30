@@ -57,5 +57,4 @@ bot.on("ready", async() => {
     })
 })
 
-
-bot.login("NjcyMzI2MDQwMTM5MzMzNjQz.XjJ2dQ._pri9s-A556G-OcY4k6-txgWvOY");
+client.login(process.env.NjcyMzI2MDQwMTM5MzMzNjQz.XjKDPg.cTC9Ni9Eqjp_dhVZOLDvCPPLQ9E;
