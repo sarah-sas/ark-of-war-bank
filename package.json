@@ -1,0 +1,16 @@
+{
+  "name": "ark-of-war-bank-master",
+  "version": "1.0.0",
+  "description": "this bot relies on trust of the guild members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.0.0-b22"
+  }
+}
